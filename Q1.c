@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 int main() {    
+
     int n,i;
     scanf("%d",&n);
     char a[n][20];
